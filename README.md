@@ -17,6 +17,9 @@ Which are listed below :
 12) Importing and using animations from Mixamo
 13) added sounds, particles, effects and textures using asset store
 
+
+This Repo contains Scripts, fbx model, and exe zip file.
+
 You can play exe by downloading "SpaceEscape EXE" zip file.
 
 Thanks.
